@@ -1,0 +1,82 @@
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.exe
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.deps.json
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.json
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.dev.json
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\ref\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor2\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.pdb
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.AssemblyReference.cache
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.Form1.resources
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.GenerateResource.cache
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfoInputs.cache
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfo.cs
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.CoreCompileInputs.cache
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\ref\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.pdb
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.genruntimeconfig.cache
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.EnterName.resources
+D:\Visual studio\RegistryEditor2\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AddFile.resources
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.exe
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.deps.json
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.json
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.dev.json
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\ref\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.pdb
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.AssemblyReference.cache
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AddFile.resources
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.EnterName.resources
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.Form1.resources
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.GenerateResource.cache
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfoInputs.cache
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfo.cs
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.CoreCompileInputs.cache
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\ref\RegistryEditor2.dll
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.pdb
+D:\Visual studio\RegistryEditor\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.exe
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.deps.json
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.json
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.pdb
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AddFile.resources
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.EnterName.resources
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.Form1.resources
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\refint\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.pdb
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\13\RegistryEditor-main\RegistryEditor2\obj\Debug\net5.0-windows\ref\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.exe
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.deps.json
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.json
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\bin\Debug\net5.0-windows\RegistryEditor2.pdb
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AddFile.resources
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.EnterName.resources
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.Form1.resources
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\refint\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.pdb
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\ref\RegistryEditor2.dll
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.Find.resources
+C:\Users\Ivan\Desktop\CourceWorkOperSystem_Sem5\RegistryEditor2\obj\Debug\net5.0-windows\RegistryEditor2.Properties.Resources.resources

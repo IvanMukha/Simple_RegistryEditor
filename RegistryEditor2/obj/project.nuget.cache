@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4azntqP7PVI0QflVclB9l/aUEvCYEADXUJZjKVRvRv4DRdxPMTQLreuBleCK8G1AneVw06oWG6WyiaFh4aLmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\CourceWorkOperSystem_Sem5\\RegistryEditor2\\RegistryEditor2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.20348.27\\microsoft.windows.sdk.net.ref.10.0.20348.27.nupkg.sha512"
+  ],
+  "logs": []
+}
